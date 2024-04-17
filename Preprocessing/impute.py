@@ -11,4 +11,4 @@ vals = [list(x) for x in df.iloc[:,2:].values]
 new_vals = [list(x) for x in imp.fit_transform(vals)]
 df.iloc[:,2:] = new_vals
 
-df.to_csv("init_data_imputated.csv", index=False)
+df.to_csv("init_data_imputed.csv", index=False)
