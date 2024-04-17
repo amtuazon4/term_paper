@@ -19,14 +19,14 @@ Files
     - file for dividing the dataset using stratified splitting
 
 6. 
-in_test_ds2.csv
-in_train_ds2.csv
-in_valid_ds2.csv
-init_data-imputed.csv
-init_data-imputed2.csv
-inout_test_ds2.csv
-inout_train_ds2.csv
-inout_valid_ds2.csv
+- in_test_ds2.csv
+- in_train_ds2.csv
+- in_valid_ds2.csv
+- init_data-imputed.csv
+- init_data-imputed2.csv
+- inout_test_ds2.csv
+- inout_train_ds2.csv
+- inout_valid_ds2.csv
     - modified datasets used during preprocessing
 
 7. test5.csv
