@@ -1,4 +1,5 @@
 Name: Andre M. Tuazon
+
 Student Number: 2020-00839
 
 Folders:
@@ -7,4 +8,3 @@ Folders:
 
 2. Preprocessing
     - contains files for preprocessing the dataset
-    
